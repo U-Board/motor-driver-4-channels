@@ -1,2 +1,4 @@
 
 /stm32f407-example/motor_drivers/Debug
+/.idea
+*.py~
